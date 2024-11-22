@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Basic T-Shirt",
+    "price": "19.99",
+    "size": "M"
+  },
+  {
+    "id": "2",
+    "name": "Sports Pants",
+    "price": "29.99",
+    "size": "L"
+  },
+  {
+    "id": "3",
+    "name": "Winter Jacket",
+    "price": "49.99",
+    "size": "XL"
+  },
+  {
+    "id": "4",
+    "name": "Running Shoes",
+    "price": "89.99",
+    "size": "42"
+  },
+  {
+    "id": "5",
+    "name": "Hat",
+    "price": "14.99",
+    "size": "One Size"
+  }
+]
